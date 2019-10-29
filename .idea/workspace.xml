@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f886f0-a0f8-41c6-9c49-48fb2d362638" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/portfolio/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/gallery/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/gallery/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-344">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="492">
+              <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -66,8 +65,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="169">
+              <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+              <folding>
+                <element signature="e#13852#13858#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +84,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;div class=&quot;col-md-4&quot;&gt;</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -93,8 +100,8 @@
         <option value="$PROJECT_DIR$/portfolio/portfolio/views.py" />
         <option value="$PROJECT_DIR$/portfolio/portfolio/settings.py" />
         <option value="$PROJECT_DIR$/portfolio/portfolio/urls.py" />
-        <option value="$PROJECT_DIR$/portfolio/templates/home.html" />
         <option value="$PROJECT_DIR$/portfolio/gallery/models.py" />
+        <option value="$PROJECT_DIR$/portfolio/templates/home.html" />
       </list>
     </option>
   </component>
@@ -185,12 +192,12 @@
       <updated>1571987418910</updated>
       <workItem from="1571987419991" duration="5722000" />
       <workItem from="1572228455227" duration="21000" />
-      <workItem from="1572252283337" duration="4987000" />
+      <workItem from="1572252283337" duration="6488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10730000" />
+    <option name="totallyTimeSpent" value="12231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -252,13 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/portfolio/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/portfolio/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -266,10 +266,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="169">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+          <folding>
+            <element signature="e#13852#13858#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
